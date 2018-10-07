@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyBxK6eNwHoAKYBGDW3cUlhLaGytNIOiWcs',
-    authDomain: 'ingreso-egreso-app.firebaseapp.com',
-    databaseURL: 'https://ingreso-egreso-app.firebaseio.com',
-    projectId: 'ingreso-egreso-app',
-    storageBucket: 'ingreso-egreso-app.appspot.com',
-    messagingSenderId: '577324738477'
+    apiKey: 'AIzaSyC0OuoWrkw2HIfnBdTFzC1fToNjVE_70cM',
+    authDomain: 'ingreso-egreso-app-fae52.firebaseapp.com',
+    databaseURL: 'https://ingreso-egreso-app-fae52.firebaseio.com',
+    projectId: 'ingreso-egreso-app-fae52',
+    storageBucket: 'ingreso-egreso-app-fae52.appspot.com',
+    messagingSenderId: '194531248386'
   }
 };
 
